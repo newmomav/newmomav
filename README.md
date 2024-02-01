@@ -8,7 +8,7 @@ Having just completed my training as a developer, I am full of motivation and ea
 🎀 Full-Stack Developer<br/>
 🎀 Studied at [DCI](https://digitalcareerinstitute.org) 2023<br/>
 🎀 Currently learning TypeScript<br/>
-🌷 Former Costume and Stage Desiner<br/>
+🎀 Former Costume and Stage Desiner<br/>
 
 👜 HTML5 || CSS3|| JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS 
 
