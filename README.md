@@ -1,5 +1,5 @@
 
-<h3 align="center">Coucou, it's me Lili</h3>
+###Coucou, it's me Lili
 # I am an enthusiastic Web Developer from Berlin
 
 💮 Fullstack Developer<br/>
