@@ -3,15 +3,17 @@
 # I am a devoted Web Developer from Berlin
 
 💮 Full-Stack Developer<br/>
-🌸 Studied at [DCI](https://digitalcareerinstitute.org)<br/>
+💮 Studied at [DCI](https://digitalcareerinstitute.org)<br/>
 💮 Former Costume and Stage Desiner<br/>
 
-🌺 Creating original portfolio websites with impeccable design<br/>
-🐚 Love opulence but prefer simplicity even more<br/>
+💮 Creating original portfolio websites with impeccable design<br/>
+💮 Love opulence but prefer simplicity even more<br/>
+
+🖤 HTML5 || CSS3/SASS || JavaScript || React.js || Node.js || Express.js. || MongoDb || SASS || Bootstrap || TailwindCSS
 
 
 *Having just completed my training as a developer, I am full of motivation and eager for more exciting projects.*
 
-🌺 Contact me: 
+💮 Contact me: 
 [linkedIn](https://linkedin.com/in/liliavar)
 
