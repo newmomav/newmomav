@@ -10,7 +10,7 @@ Having just completed my training as a developer, I am full of motivation and ea
 💮 Currently learning TypeScript<br/>
 💮 Former Costume and Stage Desiner<br/>
 
-### 💮 HTML5 || CSS3/SASS || JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS ###
+👜 HTML5 || CSS3|| JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS 
 
 💮 Contact me: [linkedIn](https://linkedin.com/in/liliavar)
 
