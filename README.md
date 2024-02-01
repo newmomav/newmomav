@@ -3,12 +3,13 @@
 # I am a devoted Web Developer from Berlin
 
 💮 Full-Stack Developer<br/>
-💮 Studied at [DCI](https://digitalcareerinstitute.org)<br/>
+💮 Studied at [DCI](https://digitalcareerinstitute.org) 2023<br/>
+💮 Currently learning TypeScript<br/>
 💮  Former Costume and Stage Desiner<br/>
 
 💮 I am creating original websites with impeccable design. Love opulence but prefer simplicity even more<br/>
 
-💮 HTML5 || CSS3/SASS || JavaScript || React.js || Node.js || Express.js. || MongoDb || SASS || Bootstrap || TailwindCSS
+💮 HTML5 || CSS3/SASS || JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS
 
 *Having just completed my training as a developer, I am full of motivation and eager for more exciting projects...*
 
