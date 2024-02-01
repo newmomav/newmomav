@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi, it's me, Lili!</h1>
+<h3 align="center">Coucou, it's me Lili</h3>
+# I am an enthusiastic Web Developer from Berlin
 
 💮 Fullstack Developer<br/>
 💮 Studied at [DCI](https://digitalcareerinstitute.org)<br/>
