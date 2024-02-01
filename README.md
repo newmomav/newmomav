@@ -2,16 +2,15 @@
 
 # I am a devoted Web Developer from Berlin
 
+*I am creating original websites with impeccable design. Love opulence but prefer simplicity even more<br/>
+Having just completed my training as a developer, I am full of motivation and eager for more exciting projects...*
+
 💮 Full-Stack Developer<br/>
 💮 Studied at [DCI](https://digitalcareerinstitute.org) 2023<br/>
 💮 Currently learning TypeScript<br/>
-💮  Former Costume and Stage Desiner<br/>
+💮 Former Costume and Stage Desiner<br/>
 
-💮 I am creating original websites with impeccable design. Love opulence but prefer simplicity even more<br/>
-
-💮 HTML5 || CSS3/SASS || JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS
-
-*Having just completed my training as a developer, I am full of motivation and eager for more exciting projects...*
+### 💮 HTML5 || CSS3/SASS || JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS ###
 
 💮 Contact me: [linkedIn](https://linkedin.com/in/liliavar)
 
