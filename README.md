@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&size=24&pause=1000&color=F7CCDC&random=false&width=435&lines=Coucou,+Lili+here!)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&size=24&pause=1000&color=F7CCDC&random=false&width=435&lines=Coucou,+Lili+here!)](https://git.io/typing-svg)
 
 # I am a devoted Web Developer from Berlin
 
@@ -14,4 +15,4 @@ Having just completed my training as a developer, I am full of motivation and ea
 
 💌 Contact me on [LinkedIn](https://linkedin.com/in/liliavar) or email me at [email@example.com](mailto:email@example.com)
 
-
+</div>
