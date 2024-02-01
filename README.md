@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coucou,+it's+me+Lili!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Homemade+Apple&size=24&pause=1000&color=F7CCDC&random=false&width=435&lines=Coucou,+Lili+here)](https://git.io/typing-svg)
 ### Coucou, it's me Lili
 # I am an enthusiastic Web Developer from Berlin
 
