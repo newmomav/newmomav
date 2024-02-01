@@ -6,15 +6,11 @@
 
 *I am creating original websites with impeccable design. Love opulence but prefer simplicity even more<br/>
 Having just completed my training as a developer, I am full of motivation and eager for more exciting projects...*
-
-<p align="left">
   
 🎀 Full-Stack Developer<br/>
-🎀 Studied at [DCI](https://digitalcareerinstitute.org) 2023<br/>
+🎀 Studied at [DCI](https://digitalcareerinstitute.org)<br/>
 🎀 Currently learning TypeScript<br/>
 🎀 Former Costume and Stage Desiner<br/>
-
-</p>
 
 👜 HTML5 || CSS3|| JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS 
 
