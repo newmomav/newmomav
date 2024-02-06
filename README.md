@@ -14,6 +14,6 @@ Having just completed my training as a developer, I am full of motivation and ea
 
 👜 HTML5 || CSS3|| JavaScript || MERN-Stack || SASS || Bootstrap || TailwindCSS 
 
-💌 Contact me on [LinkedIn](https://linkedin.com/in/liliavar) or email me at [email@example.com](mailto:email@example.com)
+💌 Contact me on [LinkedIn](https://linkedin.com/in/liliavar) or email me at [lili@avar.online](mailto:lili@avar.online)
 
 </div>
